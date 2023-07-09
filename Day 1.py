@@ -1,4 +1,3 @@
-
 print("Hello world")
 print("   /|")
 print("  / |")
@@ -51,4 +50,3 @@ print(min(7,2))
 print(round(7.5))
 #round is used to roundoff the no
 #"from math import *" is used to access more math functions
-
